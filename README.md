@@ -2,6 +2,10 @@
 1. Android support
 2. Multiplayer (p2p without proxy server for MVP)
 3. Copy of existing turn based board game
+    rules RU: https://www.igromaster.com/files/pokorenie_marsa_rules.pdf?srsltid=AfmBOooG-m-IGPmvPGQLPgGXZBD6PnStoXzNcE1SbzvFFd3umBcKTvEx
+    rules ENG: https://cdn.1j1ju.com/medias/13/3f/fb-terraforming-mars-rule.pdf
+
+
 
 ## Game basic mechanics details: 
 1. turn based
